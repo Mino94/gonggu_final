@@ -1,0 +1,13 @@
+{
+    "printWidth": 80,
+    "trailingComma": "all",
+    "editor.formatOnSave": true,
+    "prettier.semi": true,
+    "prettier.javascriptEnable" : ["javascript", "javascriptreact"],
+    "prettier.printWidth" : 2,
+    "prettier.useTabs": false,
+    "prettier.singleQuote":true,
+    "prettier.tabWidth": 4
+}
+
+
